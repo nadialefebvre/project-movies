@@ -1,4 +1,4 @@
-# Project Movies
+# Week 12: Project Movies
 
 This week’s project was about creating a movie app using React Router.
 We also were introduced to styled components. 
