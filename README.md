@@ -9,4 +9,4 @@ This weeks assignment was in pairs, we started by structuring our work in order 
 
 ## View it live
 
-techniflix.netlify.app
+Project deployed here: [Techniflix](https://techniflix.netlify.app)
