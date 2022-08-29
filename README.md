@@ -1,3 +1,10 @@
+# Weekly project for Technigo's bootcamp, week 12
+Task: build a movie app
+
+Tech: HTML, CSS, JavaScript, API, React, Styled components, React Router
+
+----
+
 # Week 12: Project Movies
 
 This week’s project was about creating a movie app using React Router.
