@@ -1,4 +1,6 @@
-# Week 12: Project Movies
+# Project Techniflix
+
+Weekly project for Technigo's bootcamp, week 12: build a movie app
 
 This week’s project was about creating a movie app using React Router.
 We also were introduced to styled components. 
