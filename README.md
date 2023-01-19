@@ -12,3 +12,7 @@ This weeks assignment was in pairs, we started by structuring our work in order 
 ## View it live
 
 Project deployed here: [Techniflix](https://techniflix.netlify.app)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
